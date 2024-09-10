@@ -4,7 +4,7 @@
 **Presentation Link:** [Presentation](https://youtu.be/GHFlng6UzuQ)
 
 ---
-# CS470: Full Stack Development II Final Reflection
+# Full Stack Development II Final Reflection
 Brad J. | 06/30/2024
 
 ## Professional Impact
